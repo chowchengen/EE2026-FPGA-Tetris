@@ -1,0 +1,26 @@
+# Vivado build artifacts
+*.jou
+*.log
+*.str
+*.xpr
+*.bit
+*.dcp
+*.pb
+*.rpt
+*.rpx
+*.vdi
+*.xml
+
+# Vivado generated directories
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.ipdefs/
+*.hbs/
+
+# Temp files
+*.tmp
+*.bak
